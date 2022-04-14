@@ -1,6 +1,6 @@
 # powerbi
 
-As of April 2022, I have lead a Power BI User Group for 2 years with over 100 members. 
+As of April 2022, I have lead a **Power BI User Group (PBUG)** for 2 years with over 100 members. 
 
 To engage the community, I came up with the idea to create bite-sized challenges for employees/colleagues to upskill in Power BI.
 
