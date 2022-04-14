@@ -2,7 +2,7 @@
 
 As of April 2022, I have lead a **Power BI User Group (PBUG)** for 2 years with over 100 members. 
 
-To engage the community, I came up with the idea to create bite-sized challenges for employees/colleagues to upskill in Power BI.
+To engage the community, I came up with the idea to create bite-sized challenges for employees/colleagues to upskill in Power BI in 30 minutes or less.
 
 These aim to facilitate everyone's learning journeys whether it's through report creation or building applications for their work.
 
